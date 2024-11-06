@@ -2,6 +2,9 @@
 
 This project implements a Rule Engine using an Abstract Syntax Tree (AST) to facilitate dynamic evaluation of business rules. The application is built with Streamlit and allows users to add, delete, and visualize rules stored in a SQLite database.
 
+## User Interface
+![User Interface](https://github.com/Kowshik-R-2026/Rule_Engine_using_Abstract_syntax_tree/blob/main/preview.png)
+
 ## Features
 
 - Fetch and display employee data from a SQLite database.
